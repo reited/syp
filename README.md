@@ -1,4 +1,4 @@
-# SILLY
+# SYP
 
 ## About
 This repository contains small projects (you could say silly projects) of mine.
