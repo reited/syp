@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "copier": "deno run -A copier.ts"
+  }
+}
